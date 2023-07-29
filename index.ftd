@@ -42,7 +42,7 @@ cta-item2-link: /POORTFOLIO/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/tushtalwekar12
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -76,7 +76,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: TUSHAR,
+secondTitle: TUSHAR TALWEKAR
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -98,7 +98,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:tushartalwekar1234@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
